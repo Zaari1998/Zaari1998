@@ -2,7 +2,7 @@ Welcome to my profile!
 
 🙋‍♂️ About Me:
 
-I'm a mathematical engineering student at ENSIIE and M2 Data science student at Paris-Saclay University.
+I'm a mathematical engineer student at ENSIIE and M2 Data science student at Paris-Saclay University.
 
 My interests are:
 Data science, Statistical analysis and modeling and Machine learning
